@@ -7,7 +7,7 @@ import FAQ from './Components/FAQ'
 import Navbar from './Components/Navbar'
 import Hero from './Components/Hero'
 import Products from './Components/Products'
-import Footer from './Components/footer'
+import Footer from './Components/Footer'
 function App() {
 
   return (
